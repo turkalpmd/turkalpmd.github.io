@@ -8,7 +8,7 @@ authors:
 date: "2023-04-13T00:00:00Z"
 doi: "10.1186/s13054-023-04447-0"
 # Image
-featured: false
+featured: true
 image:
   caption: 'Math Teach'
   focal_point: ""
@@ -18,14 +18,14 @@ projects: []
 publication: 'Critical Care'
 publication_short: "*CC*"
 publication_types:
-- "2"
+- "Commentary"
 publishDate: "2023-04-13T00:00:00Z"
 
 summary: "This response to Azamfirei et al.'s paper on ChatGPT's use in decision-making highlights the need for caution but also underlines the potential benefits of language models. It showcases instances where GPT models have been crucial, like in disaster relief efforts, and suggests that while we must be wary of misapplication, the adaptability of these models promises valuable advancements. Citing the historical resistance to technology, such as calculators in education, it suggests that initial skepticism often gives way to acceptance and innovation. The authors advocate for a balanced view that embraces the positive impacts of emerging technologies, encouraging ongoing dialogue to maximize their societal benefits."
 
 tags: 
-- Ethical Implications of AI in Decision-Making
-- The Evolution and Impact of Language Models
+- Critical Care
+- LLMs
 title: "Balancing caution and ınnovation: exploring the potential of large language models in critical decision-making"
 # varsa alttakileri doldurabilirsin
 url_code: ""
