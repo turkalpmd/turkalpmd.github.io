@@ -7,11 +7,13 @@ authors:
 - Bayrakci B
 date: "2023-04-13T00:00:00Z"
 doi: "10.1186/s13054-023-04447-0"
+# Image
 featured: false
 image:
-  caption: 'Featured on the cover of [*JCB*](https://rupress.org/jcb/issue/209/2)'
+  caption: 'Math Teach'
   focal_point: ""
   preview_only: false
+
 projects: []
 publication: 'Critical Care'
 publication_short: "*CC*"
