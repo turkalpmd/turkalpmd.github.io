@@ -14,3 +14,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+For a full list of publications, please see my [google scholar](https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ=en) page.
