@@ -47,7 +47,7 @@ imaging:
   resampleFilter: Lanczos
   quality: 75
   anchor: Smart
-timeout: 600000
+timeout: "30s"
 taxonomies:
   tag: tags
   category: categories
