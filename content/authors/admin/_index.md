@@ -68,7 +68,7 @@ skills:
         description: ''
         percent: 40
         icon: amazonwebservices-wordmark
-        icon_pack: devicon
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

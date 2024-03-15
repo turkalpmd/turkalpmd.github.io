@@ -17,7 +17,7 @@ projects: []
 publication: 'dergi ismi'
 publication_short: "*dergi ismi kısaltma*"
 publication_types:
-- "2"
+- "Poster presentation"
 publishDate: "yayınlanmayyy-mm-ddT00:00:00Z"
 
 summary: ""
