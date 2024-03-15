@@ -68,7 +68,7 @@ skills:
         description: ''
         percent: 40
         icon: amazonwebservices-wordmark
-        icon_pack: fas
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,6 +112,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/turkalpmd
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-3055-7355
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,8 +126,6 @@ social:
 highlight_name: true
 ---
 
-Dr. Izzet Turkalp Akbaslı is an experienced medical doctor with profound expertise in pediatric critical care and artificial intelligence. He has amassed extensive experience in clinical practice, research, and innovation, focusing on enhancing healthcare outcomes through technology. Dr. Akbaslı obtained his medical and pediatric specializations from İnönü University and Hacettepe University, respectively, and holds a Master’s degree in autoinflammatory diseases. He currently practices pediatric care at Polatlı Duatepe State Hospital and conducts research on AI applications in medicine at Hacettepe University. Additionally, for over two years, he has been actively serving as an editor for the Journal of Pediatric Critical Care.
-
-Dr. Akbaslı possesses in-depth knowledge in artificial intelligence and machine learning, contributing to various projects and scientific publications in these fields. His recent research includes developing personalized transfusion strategies for critically ill children, creating applications to forecast overcrowding in pediatric emergency rooms, and working on intelligent triage applications using large language models to reduce waiting times in pediatric emergency rooms. His professional skills include problem-solving, active learning, multitasking, and agility, while his technical proficiencies cover machine learning, deep learning, time series analysis, large language models, and cloud infrastructure.
+Dr. Izzet Turkalp Akbaslı is a pioneering figure in pediatric critical care and artificial intelligence, blending clinical expertise with technological innovation to enhance healthcare outcomes. Educated at İnönü and Hacettepe Universities, with specializations in medicine, pediatrics, and autoinflammatory diseases, he practices at Polatlı Duatepe State Hospital and conducts AI research at Hacettepe University. Dr. Akbaslı's work focuses on developing AI-driven solutions for pediatric care, such as personalized transfusion strategies and intelligent triage applications, demonstrating his proficiency in machine learning, deep learning, and cloud technologies. As an editor for the Journal of Pediatric Critical Care, he actively contributes to advancing the field through scientific publications and projects.
 
 {style="text-align: justify;"}
