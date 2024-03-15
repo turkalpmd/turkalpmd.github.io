@@ -67,7 +67,7 @@ skills:
       - name: AWS
         description: ''
         percent: 40
-        icon: amazonwebservices
+        icon: amazonwebservices-wordmark
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
