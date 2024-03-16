@@ -19,7 +19,7 @@ projects: []
 publication: 'Vox Sanguinis'
 publication_short: "*VOX*"
 publication_types:
-- 2
+- Journal article
 publishDate: "2021-09-10T00:00:00Z"
 
 summary: "To our knowledge, this is the first large scale multicenter study that describes the clinical indications of MT in Turkey. We found that cardiovascular disease, trauma and cancer are the three most frequent, and the setting was almost invariably surgical. MT is uncommon but not negligible and leads to significant numbers of blood transfusions, and a high mortality rate. High FFP: RBCs ratio transfusion may be associated with increased survival. Now we know the most frequent factors leading to massive transfusion, but larger studies on specific patient groups are required to fill the knowledge gap."
