@@ -97,7 +97,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter_white
+  - icon: x
     icon_pack: fab
     link: https://x.com/turkalpmd
     label: Follow me on X
