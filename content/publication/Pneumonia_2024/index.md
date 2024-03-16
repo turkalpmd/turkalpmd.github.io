@@ -13,7 +13,7 @@ authors:
 - Ozsurekci Y
 date: "2024-02-23T00:00:00Z"
 doi: "10.1101/2024.02.22.24303209"
-featured: false
+featured: true
 image: 
   caption: 'Graphical abstract'
   focal_point: ""
