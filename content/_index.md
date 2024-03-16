@@ -86,23 +86,23 @@ sections:
               * Treatment Planning and Implementation
               * Health Education and Prevention
 
-        - title: Pediatric Resident
-          company: Hacettepe University
-          company_url: 'https://www.hacettepe.edu.tr/'
-          company_logo: hu_logo
-          location: Ankara/Turkey
-          date_start: '2018-05-09'
-          date_end: '2023-05-25'
-          description: Trained in pediatric care and researched pediatric critical care and transfusion medicine 
+        # - title: Pediatric Resident
+        #   company: Hacettepe University
+        #   company_url: 'https://www.hacettepe.edu.tr/'
+        #   company_logo: hu_logo
+        #   location: Ankara/Turkey
+        #   date_start: '2018-05-09'
+        #   date_end: '2023-05-25'
+        #   description: Trained in pediatric care and researched pediatric critical care and transfusion medicine 
 
-        - title: General Practitioner
-          company: Taksim First Aid Research and Training Hospital
-          company_url: 'https://taksimeah.saglik.gov.tr/'
-          company_logo: sbu
-          location: Istanbul/Turkey
-          date_start: '2018-04-21'
-          date_end: ''
-          description: Served in an emergency department that admits an average of 2500 patients daily.     
+        # - title: General Practitioner
+        #   company: Taksim First Aid Research and Training Hospital
+        #   company_url: 'https://taksimeah.saglik.gov.tr/'
+        #   company_logo: sbu
+        #   location: Istanbul/Turkey
+        #   date_start: '2018-04-21'
+        #   date_end: ''
+        #   description: Served in an emergency department that admits an average of 2500 patients daily.     
     design:
       columns: '2'
   # - block: accomplishments
