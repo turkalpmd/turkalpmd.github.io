@@ -159,7 +159,11 @@ sections:
     id: featured
     content:
       title: Publications
-      filters:
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:      
         folders:
           - publication
         featured_only: true
