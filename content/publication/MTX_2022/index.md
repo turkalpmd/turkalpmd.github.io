@@ -27,7 +27,7 @@ projects: []
 publication: 'dergi ismi'
 publication_short: "*dergi ismi kısaltma*"
 publication_types:
-- "Poster presentation"
+- ["Conference paper"]
 publishDate: "2022-11-03T00:00:00Z"
 
 summary: "This case series highlights the effective use of low-flux hemodialysis (HD) in treating pediatric patients with acute methotrexate (MTX) toxicity following high-dose MTX infusion. The study included patients who experienced acute kidney injury (AKI) and elevated MTX levels, treated between 2012 and 2021. The results showed significant removal of MTX using low-flux HD, with no complications from the treatment, suggesting that conventional HD is a viable option for managing MTX toxicity, especially in resource-limited settings."
