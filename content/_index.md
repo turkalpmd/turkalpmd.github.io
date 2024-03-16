@@ -62,6 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - title: Pediatric Emergency Medicine Fellowship
+          company: Hacettepe University
+          company_url: 'https://www.hacettepe.edu.tr/'
+          company_logo: hu_logo
+          location: Ankara/Turkey
+          date_start: '2024-05-06'
+          date_end: ''
+          description: Engaged in a Pediatric Emergency Medicine Fellowship, focusing on leveraging artificial intelligence to enhance the management of emergency department workflows and improve patient care efficiency.
+
         - title: Pediatric Specialist
           company: Polatlı Duatepe State Hospital
           company_url: 'https://polatliduatepedh.saglik.gov.tr/'
@@ -84,6 +94,15 @@ sections:
           date_start: '2018-05-09'
           date_end: '2023-05-25'
           description: Trained in pediatric care and researched pediatric critical care and transfusion medicine 
+
+        - title: General Practitioner
+          company: Taksim First Aid Research and Training Hospital
+          company_url: 'https://taksimeah.saglik.gov.tr/'
+          company_logo: sbu
+          location: Istanbul/Turkey
+          date_start: '2018-04-21'
+          date_end: ''
+          description: Served in an emergency department that admits an average of 2500 patients daily.     
     design:
       columns: '2'
   # - block: accomplishments
