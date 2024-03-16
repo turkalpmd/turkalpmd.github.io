@@ -24,7 +24,7 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: "<sup>^</sup>"
+footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: '/talk/:slug/'
@@ -33,21 +33,13 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-    - WebAppManifest
-    - headers
-    - redirects
-  section:
-    - HTML
-    - RSS
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
 imaging:
-  resampleFilter: Lanczos
+  resampleFilter: lanczos
   quality: 75
-  anchor: Smart
-#timeout: 30s
+  anchor: smart
+timeout: 600000
 taxonomies:
   tag: tags
   category: categories
