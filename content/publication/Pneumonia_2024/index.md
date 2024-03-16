@@ -21,28 +21,29 @@ authors:
 - 
 -
 -
-date: "yüklemeyyy-mm-ddT00:00:00Z"
-doi: ""
-featured: false
-image:
-  caption: 'Featured on the cover of [*JCB*](https://rupress.org/jcb/issue/209/2)'
+date: "2024-02-23T00:00:00Z"
+doi: "10.1101/2024.02.22.24303209"
+featured: true
+image: 
+  caption: 'Graphical abstract'
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'dergi ismi'
-publication_short: "*dergi ismi kısaltma*"
+publication: 'medRxiv'
+publication_short: "*medRxiv*"
 publication_types:
-- "2"
-publishDate: "yayınlanmayyy-mm-ddT00:00:00Z"
+- ["Preprint / Working Paper"]
+publishDate: "2024-02-23T00:00:00Z"
 
-summary: ""
+summary: "This study developed a machine learning-based tool for childhood pneumonia prognosis, analyzing data from 437 cases between 2014 and 2020. Using SMOTE-Tomek for dataset balancing and SHAP values for feature selection, the model achieved 77-88% accuracy in predicting pneumonia outcomes, with critical severity indicators identified. The research underscores the potential of data science and machine learning in enhancing pneumonia case management and prognosis, even with limited sample sizes."
 tags: 
-- GPT ile tag bul
-title: başlık
+- Machine Learning
+- Critical Care
+title: 'Advancing primary care for childhood pneumonia: a machine learning-based approach to prognosis and case management'
 # varsa alttakileri doldurabilirsin
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.medrxiv.org/content/10.1101/2024.02.22.24303209v1.full.pdf+html"
 url_poster: ""
 url_project: ""
 url_slides: ""
