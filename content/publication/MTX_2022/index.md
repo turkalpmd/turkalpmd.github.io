@@ -1,4 +1,4 @@
----
+<!-- ---
 abstract: "<b>Background</b> Methotrexate (MTX) toxicity can manifest following high-dose methotrexate infusion (HDMTX), leading to acute kidney injury (AKI), hepatitis, mucositis, and myelosuppression. The management and prevention of toxicity-related conditions include urine alkalinization, leucovorin administration, and glucarpidase treatment. In some cases, extracorporeal removal techniques are necessary. This case series reports on pediatric patients who experienced acute MTX toxicity and were effectively treated with low-flux Hemodialysis (HD).
 
 <b>Methods</b> This study included patients who required hemodialysis due to AKI and elevated MTX levels following MTX infusion between 2012 and 2021. Data on MTX levels before and after HD sessions, laboratory findings, complications, and length of hospital stay were recorded for each patient.
@@ -49,4 +49,4 @@ url_video: ""
 
 
 
-
+ -->

@@ -18,9 +18,13 @@ abstract: "<b>Background</b> Pneumonia is the leading cause of preventable morta
 author_notes:
 -
 authors:
-- 
--
--
+- Serin 0
+- Akbasli IT
+- Bocutcu Cetin S
+- Koseoglu B
+- Deveci AF
+- Ugur MZ
+- Ozsurekci Y
 date: "2024-02-23T00:00:00Z"
 doi: "10.1101/2024.02.22.24303209"
 featured: true
