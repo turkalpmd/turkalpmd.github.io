@@ -62,27 +62,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Pediatric Specialist
+          company: Polatlı Duatepe State Hospital
+          company_url: 'https://polatliduatepedh.saglik.gov.tr/'
+          company_logo: sbu
+          location: Ankara/Turkey
+          date_start: '2023-05-26'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Patient Evaluation and Diagnosis
+              * Treatment Planning and Implementation
+              * Health Education and Prevention
+
+        - title: Pediatric Resident
+          company: Hacettepe University
+          company_url: 'https://www.hacettepe.edu.tr/'
+          company_logo: hu_logo
+          location: Ankara/Turkey
+          date_start: '2018-05-09'
+          date_end: '2023-05-25'
+          description: Trained in pediatric care and researched pediatric critical care and transfusion medicine 
     design:
       columns: '2'
   # - block: accomplishments
