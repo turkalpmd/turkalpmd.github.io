@@ -20,7 +20,7 @@ projects: []
 publication: 'Critical Care'
 publication_short: '*CC*'
 publication_types:
-- ["article-journal"]
+- "article-journal"
 publishDate: "2023-04-13T00:00:00Z"
 
 summary: "This response emphasizes the cautious yet optimistic view on the use of ChatGPT in decision-making, highlighting its potential benefits in crucial situations and advocating for a balanced approach to technological advancement."
