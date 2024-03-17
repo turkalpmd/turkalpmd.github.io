@@ -24,6 +24,12 @@ organizations:
   - name: Hacettepe University
     url: https://www.hacettepe.edu.tr/
 
+
+########################################################
+##custom domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+########################################################
+
+
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Izzet Turkalp Akbaslı is a pediatric critical care expert and AI researcher, developing AI-driven solutions for personalized pediatric care and contributing to scientific advancements as a Journal of Pediatric Critical Care editor.
 
