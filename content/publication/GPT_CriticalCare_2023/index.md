@@ -10,7 +10,7 @@ doi: "10.1186/s13054-023-04447-0"
 # Image
 featured: true
 image:
-  caption: 'Math Teach'
+  caption: ''
   focal_point: ""
   preview_only: false
 
