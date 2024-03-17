@@ -73,20 +73,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Home Barista
         description: ''
         #percent: 60
-        icon: person-hiking
+        icon: cup-of-coffee
         icon_pack: fas
       - name: Cats
         description: ''
         #percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Metal Music
         description: ''
         #percent: 80
-        icon: camera-retro
+        icon: guitar
         icon_pack: fas
 
 # Social/Academic Networking
