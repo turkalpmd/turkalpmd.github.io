@@ -76,7 +76,7 @@ skills:
       - name: Home Barista
         description: ''
         #percent: 60
-        icon: devicon/coffeescript
+        icon: coffeescript
         icon_pack: fab
       - name: Cats
         description: ''
