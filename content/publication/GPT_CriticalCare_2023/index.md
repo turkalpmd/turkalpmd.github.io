@@ -1,10 +1,11 @@
 ---
 title: "Balancing caution and ınnovation: exploring the potential of large language models in critical decision-making"
+
 abstract: This response to Azamfirei et al.'s paper on ChatGPT's use in decision-making highlights the need for caution but also underlines the potential benefits of language models. It showcases instances where GPT models have been crucial, like in disaster relief efforts, and suggests that while we must be wary of misapplication, the adaptability of these models promises valuable advancements. Citing the historical resistance to technology, such as calculators in education, it suggests that initial skepticism often gives way to acceptance and innovation. The authors advocate for a balanced view that embraces the positive impacts of emerging technologies, encouraging ongoing dialogue to maximize their societal benefits.
 author_notes:
 - "Equal contribution"
 authors:
-- admin
+- Akbasli IT
 - Bayrakci B
 date: "2023-04-13T00:00:00Z"
 doi: "10.1186/s13054-023-04447-0"
@@ -22,7 +23,7 @@ publication_types:
 - ["article-journal"]
 publishDate: "2023-04-13T00:00:00Z"
 
-summary: This response emphasizes the cautious yet optimistic view on the use of ChatGPT in decision-making, highlighting its potential benefits in crucial situations and advocating for a balanced approach to technological advancement.
+summary: "This response emphasizes the cautious yet optimistic view on the use of ChatGPT in decision-making, highlighting its potential benefits in crucial situations and advocating for a balanced approach to technological advancement."
 
 tags: 
 - Critical Care
