@@ -76,7 +76,7 @@ skills:
       - name: Home Barista
         description: ''
         #percent: 60
-        icon: trophy
+        icon: mug-hot #trophy
         icon_pack: fas
       - name: Cats
         description: ''
