@@ -22,7 +22,7 @@ projects: []
 publication: 'medRxiv'
 publication_short: "*medRxiv*"
 publication_types:
-- "manuscript"
+- "manuscript" #https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publishDate: "2024-02-23T00:00:00Z"
 
 summary: "This study developed a machine learning-based tool for childhood pneumonia prognosis, analyzing data from 437 cases between 2014 and 2020. Using SMOTE-Tomek for dataset balancing and SHAP values for feature selection, the model achieved 77-88% accuracy in predicting pneumonia outcomes, with critical severity indicators identified. The research underscores the potential of data science and machine learning in enhancing pneumonia case management and prognosis, even with limited sample sizes."
