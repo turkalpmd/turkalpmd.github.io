@@ -77,7 +77,7 @@ skills:
         description: ''
         #percent: 60
         icon: cup-of-coffee
-        icon_pack: fas
+        icon_pack: fab
       - name: Cats
         description: ''
         #percent: 100
@@ -86,8 +86,8 @@ skills:
       - name: Metal Music
         description: ''
         #percent: 80
-        icon: guitar
-        icon_pack: fas
+        icon: guitar_2
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
