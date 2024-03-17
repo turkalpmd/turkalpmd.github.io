@@ -30,10 +30,12 @@ bio: Dr. Izzet Turkalp Akbaslı is a pediatric critical care expert and AI resea
 # Interests to show in About widget
 interests:
   - Pediatric Critical Care
+  - Transfusion Medicine
   - Artificial Intelligence
-  - Health Information
+  - Clinical Informatics
   - Data Science
   - Machine Learning
+  - Time Series Analysis
   - NLP & Large Language Models 
   - Cloud Infrastructures Services
 
