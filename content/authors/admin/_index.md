@@ -77,7 +77,7 @@ skills:
         description: ''
         #percent: 60
         icon: coffeescript
-        icon_pack: fab
+        icon_pack: devicon
       - name: Cats
         description: ''
         #percent: 100
@@ -87,7 +87,7 @@ skills:
         description: ''
         #percent: 80
         icon: guitar
-        icon_pack: fab
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
