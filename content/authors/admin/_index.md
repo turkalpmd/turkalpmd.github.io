@@ -25,7 +25,7 @@ organizations:
     url: https://www.hacettepe.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Izzet Turkalp Akbaslı is a pediatric critical care expert and AI researcher, developing AI-driven solutions for personalized pediatric care and contributing to scientific advancements as a Journal of Pediatric Critical Care editor.
 
 # Interests to show in About widget
 interests:
@@ -39,15 +39,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Fellowship in Pediatric Emergency Medicine
+      institution: Hacettepe University
+      year: 2024  
     - course: Residency in Pediatrics
       institution: Hacettepe University
       year: 2018
-    - course: MD Degree
+    - course: Doctor of Medicine
       institution: Inonu University
       year: 2010
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
