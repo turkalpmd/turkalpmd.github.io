@@ -100,8 +100,8 @@ sections:
           company_url: 'https://taksimeah.saglik.gov.tr/'
           company_logo: sbu
           location: Istanbul/Turkey
-          date_start: '2018-04-21'
-          date_end: ''
+          date_start: '2017-10-21'
+          date_end: '2018-04-24'
           description: Served in an emergency department that admits an average of 2500 patients daily.     
     design:
       columns: '2'

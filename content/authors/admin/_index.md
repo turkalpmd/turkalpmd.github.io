@@ -76,17 +76,17 @@ skills:
       - name: Home Barista
         description: ''
         #percent: 60
-        icon: cup-of-coffee
+        icon: devicon/coffeescript
         icon_pack: fab
       - name: Cats
         description: ''
         #percent: 100
         icon: cat
         icon_pack: fas
-      - name: Metal Music
+      - name: Guitar
         description: ''
         #percent: 80
-        icon: guitar_2
+        icon: guitar
         icon_pack: fab
 
 # Social/Academic Networking
