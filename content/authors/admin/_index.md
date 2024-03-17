@@ -35,6 +35,7 @@ interests:
   - Data Science
   - Machine Learning
   - NLP & Large Language Models 
+  - Cloud Infrastructures Services
 
 # Education to show in About widget
 education:
@@ -64,7 +65,7 @@ skills:
         #percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: AWS
+      - name: Cloud Operations
         description: ''
         #percent: 40
         icon: aws
