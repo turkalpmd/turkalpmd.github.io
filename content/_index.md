@@ -206,10 +206,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Critical Care
+          tag: Critical Care
+        - name: Data Science
+          tag: Data Science
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
