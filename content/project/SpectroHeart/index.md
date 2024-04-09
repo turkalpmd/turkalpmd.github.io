@@ -15,7 +15,7 @@ external_link: ''
 image:
   caption: 
   placement: 1
-  focal_point: Center
+  focal_point: TopLeft
 
 links:
   - icon: twitter
