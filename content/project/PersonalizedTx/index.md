@@ -1,10 +1,6 @@
 ---
 title: Personalized Transfusion Strategy for PICU patients
-summary: During my residency, my most significant project involved building a personalized transfusion strategy for PICU patients. 
-
-We analyzed historical patient data using machine learning algorithms, focusing on variables that impact transfusion requirements, to develop a predictive model.
-
-Our model exhibits high performance, as demonstrated by the ROC curve plot. It allowed for more precise and timely transfusions, reducing unnecessary procedures and potential complications, thereby improving patient care.
+summary: During my residency, my most significant project involved building a personalized transfusion strategy for PICU patients. We analyzed historical patient data using machine learning algorithms, focusing on variables that impact transfusion requirements, to develop a predictive model. Our model exhibits high performance, as demonstrated by the ROC curve plot. It allowed for more precise and timely transfusions, reducing unnecessary procedures and potential complications, thereby improving patient care.
 
 
 tags:
