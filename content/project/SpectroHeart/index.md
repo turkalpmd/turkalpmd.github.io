@@ -14,7 +14,8 @@ external_link: ''
 
 image:
   caption: 
-  focal_point: Smart
+  placement: 1
+  focal_point: Center
 
 links:
   - icon: twitter
