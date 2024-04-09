@@ -3,6 +3,7 @@ title: EchoPLAX-Seg
 summary: A deep learning project for segmenting echocardiography (ECHO) parasternal long-axis (PLAX) view images into six primary heart structures using a U-Net-inspired full convolutional network (FCN) architecture.
 tags:
   - Data Science
+  - Critical Care
 date: '2022-08-20T00:00:00Z'
 
 
